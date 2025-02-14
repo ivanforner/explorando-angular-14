@@ -2,7 +2,7 @@
   "pensamentos": [
     {
       "id": "2",
-      "conteudo": "Teste",
+      "conteudo": "Teste2",
       "autoria": "Ivan",
       "modelo": "modelo1"
     },
@@ -13,7 +13,7 @@
       "modelo": "modelo1"
     },
     {
-      "id": 0,
+      "id": "0",
       "conteudo": "Testando novo pensamento",
       "autoria": "Lambers",
       "modelo": "modelo3"
